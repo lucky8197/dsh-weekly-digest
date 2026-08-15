@@ -1,0 +1,4 @@
+# weekly-digest bundle patch：把插件挂进 profile
+- insert:
+    - id: weekly-digest
+      name: 'dsh-weekly-digest'
